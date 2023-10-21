@@ -46,7 +46,7 @@ Le livre couvre tous les éléments de base et fondamentaux de la programmation 
 Ce livre est idéal pour les débutants, et peut être utilisé par des étudiants, des professionnels, des adultes ou des éducateurs. Il s'adresse au grand public, que vous soyez jeune, adulte, professionnel ou enseignant et que vous souhaitiez apprendre à programmer d'une manière facile à suivre, offrant une approche accessible et progressive pour vous initier à la programmation.
 
 ## À propos des auteurs
-**Daniel Correa** est professeur universitaire à l'Universidad EAFIT en Colombie, chercheur, développeur de logiciels et auteur de plusieurs livres de programmation. Il est titulaire d'un doctorat en informatique. Il s'intéresse aux architectures logicielles, aux frameworks (tels que Laravel, Nest, Django, Express, Vue, React et Angular), au développement web et au code propre. Suivez Daniel sur X à @danielgarax. [@danielgarax](https://x.com/danielgarax).
+**Daniel Correa** est professeur universitaire à l'Universidad EAFIT en Colombie, chercheur, développeur de logiciels et auteur de plusieurs livres de programmation. Il est titulaire d'un doctorat en informatique. Il s'intéresse aux architectures logicielles, aux frameworks (tels que Laravel, Nest, Django, Express, Vue, React et Angular), au développement web et au code propre. Suivez Daniel sur X à [@danielgarax](https://x.com/danielgarax).
 
 **Paola Vallejo** est professeure universitaire et chercheuse. Elle est titulaire d'un doctorat en informatique. Actuellement, elle travaille à l'Universidad EAFIT et donne des cours de fondements de la programmation et génie logiciel. Elle s'intéresse aux sujets liés aux architectures logicielles, à la conception de logiciels et au « clean code ».
 
